@@ -1,0 +1,12 @@
+{
+  "source": "/Users/robert/Developer/projects/Playground/MyFirstTvApp/MyFirstTvApp/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "My First Tv App"
+      }
+    ]
+  },
+  "version": 1
+}

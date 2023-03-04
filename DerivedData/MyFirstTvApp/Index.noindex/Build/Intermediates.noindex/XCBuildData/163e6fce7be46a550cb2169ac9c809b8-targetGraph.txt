@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+MyFirstTvApp in MyFirstTvApp, no dependencies
+MyFirstTvApp in MyFirstTvApp, no dependencies

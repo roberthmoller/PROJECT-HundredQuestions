@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "263f89235fa9581f4639355b44f599d9940c4d627aa909cd7d9c8be6d8af9aec"
+build_start_time: [1677947564, 594002008]
+build_end_time: [1677947565, 351922035]
+inputs:
+  "/Users/robert/Developer/projects/Playground/MyFirstTvApp/MyFirstTvApp/ContentView.swift": [1677945491, 401979446]
+  "/Users/robert/Developer/projects/Playground/MyFirstTvApp/MyFirstTvApp/Games/HundredQuestions.swift": [1677947400, 232192039]
+  "/Users/robert/Developer/projects/Playground/MyFirstTvApp/MyFirstTvApp/Models/Card.swift": [1677946912, 761162042]
+  "/Users/robert/Developer/projects/Playground/MyFirstTvApp/MyFirstTvApp/MyFirstTvAppApp.swift": [1677943328, 891861438]
+  "/Users/robert/Developer/projects/Playground/MyFirstTvApp/MyFirstTvApp/Views/CardCarouselView.swift": [1677944896, 42829036]
+  "/Users/robert/Developer/projects/Playground/MyFirstTvApp/MyFirstTvApp/Views/CardView.swift": [1677947562, 52707672]

@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "57034197dccc56cfefe65f6175e6a072e1c7b84b125110bb8bc67a2ac5423dba"
+    }
+  ],
+  "containerPath" : "/Users/robert/Developer/projects/Playground/MyFirstTvApp/100Questions.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "appletvsimulator",
+      "sdk" : "appletvsimulator16.1",
+      "sdkVariant" : "appletvsimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/robert/Developer/projects/Playground/MyFirstTvApp/DerivedData/100Questions/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/robert/Developer/projects/Playground/MyFirstTvApp/DerivedData/100Questions/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/robert/Developer/projects/Playground/MyFirstTvApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/robert/Developer/projects/Playground/MyFirstTvApp/DerivedData/100Questions/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/robert/Developer/projects/Playground/MyFirstTvApp/DerivedData/100Questions/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/robert/Developer/projects/Playground/MyFirstTvApp/DerivedData/100Questions/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/robert/Developer/projects/Playground/MyFirstTvApp/DerivedData/100Questions/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

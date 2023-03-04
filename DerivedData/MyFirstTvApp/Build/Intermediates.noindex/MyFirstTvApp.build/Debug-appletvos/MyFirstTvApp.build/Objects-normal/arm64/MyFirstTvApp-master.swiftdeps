@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d1353209550e1d5bd0165f19b7a0a9d316233107af94360f109ec0170923964c"
+build_start_time: [1677941568, 986495971]
+build_end_time: [1677941570, 555199146]
+inputs:
+  "/Users/robert/Developer/projects/Playground/MyFirstTvApp/MyFirstTvApp/ContentView.swift": [1677941555, 161825180]
+  "/Users/robert/Developer/projects/Playground/MyFirstTvApp/MyFirstTvApp/MyFirstTvAppApp.swift": [1677938015, 514779806]
