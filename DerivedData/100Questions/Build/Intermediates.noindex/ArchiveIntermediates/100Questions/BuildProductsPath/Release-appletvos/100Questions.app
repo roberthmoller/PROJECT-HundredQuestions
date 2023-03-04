@@ -1,1 +1,0 @@
-/Users/robert/Developer/projects/Playground/MyFirstTvApp/DerivedData/100Questions/Build/Intermediates.noindex/ArchiveIntermediates/100Questions/InstallationBuildProductsLocation/Applications/100Questions.app

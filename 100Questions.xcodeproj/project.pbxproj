@@ -16,7 +16,10 @@
 		E1B0D66829B384E1002BEBC9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1B0D66729B384E1002BEBC9 /* Preview Assets.xcassets */; };
 		E1B0D67229B393E9002BEBC9 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B0D67129B393E9002BEBC9 /* CardView.swift */; };
 		E1B0D67429B39405002BEBC9 /* CardCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B0D67329B39405002BEBC9 /* CardCarouselView.swift */; };
-		E1B6045F29B3C2FC00E3E3A9 /* Template - LaunchImage - 3840 x 2160 pt@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E1B6045E29B3C2FC00E3E3A9 /* Template - LaunchImage - 3840 x 2160 pt@2x.png */; };
+		E1B6046529B3ED5100E3E3A9 /* Template - Top Shelf - Wide - 2320 x 720 pt (P3) @2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1B6046229B3ED5000E3E3A9 /* Template - Top Shelf - Wide - 2320 x 720 pt (P3) @2x.jpg */; };
+		E1B6046629B3ED5100E3E3A9 /* Template - App Icon - AppStore - 1280 x 768 pt (P3).jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1B6046329B3ED5100E3E3A9 /* Template - App Icon - AppStore - 1280 x 768 pt (P3).jpg */; };
+		E1B6046829B3EDF500E3E3A9 /* Template - App Icon Small - 400 x 240 pt (P3) @2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1B6046729B3EDF400E3E3A9 /* Template - App Icon Small - 400 x 240 pt (P3) @2x.jpg */; };
+		E1B6046A29B3EF2700E3E3A9 /* Template - LaunchImage - 3840 x 1440 pt@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1B6046929B3EF2700E3E3A9 /* Template - LaunchImage - 3840 x 1440 pt@2x.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,7 +33,10 @@
 		E1B0D66729B384E1002BEBC9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E1B0D67129B393E9002BEBC9 /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		E1B0D67329B39405002BEBC9 /* CardCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardCarouselView.swift; sourceTree = "<group>"; };
-		E1B6045E29B3C2FC00E3E3A9 /* Template - LaunchImage - 3840 x 2160 pt@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Template - LaunchImage - 3840 x 2160 pt@2x.png"; sourceTree = "<group>"; };
+		E1B6046229B3ED5000E3E3A9 /* Template - Top Shelf - Wide - 2320 x 720 pt (P3) @2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Template - Top Shelf - Wide - 2320 x 720 pt (P3) @2x.jpg"; sourceTree = "<group>"; };
+		E1B6046329B3ED5100E3E3A9 /* Template - App Icon - AppStore - 1280 x 768 pt (P3).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Template - App Icon - AppStore - 1280 x 768 pt (P3).jpg"; sourceTree = "<group>"; };
+		E1B6046729B3EDF400E3E3A9 /* Template - App Icon Small - 400 x 240 pt (P3) @2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Template - App Icon Small - 400 x 240 pt (P3) @2x.jpg"; sourceTree = "<group>"; };
+		E1B6046929B3EF2700E3E3A9 /* Template - LaunchImage - 3840 x 1440 pt@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Template - LaunchImage - 3840 x 1440 pt@2x.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +85,7 @@
 		E1B0D65F29B384DF002BEBC9 /* 100Questions */ = {
 			isa = PBXGroup;
 			children = (
-				E1B6045E29B3C2FC00E3E3A9 /* Template - LaunchImage - 3840 x 2160 pt@2x.png */,
+				E1B6046029B3ED2500E3E3A9 /* Images */,
 				E150E67929B39C0400902158 /* Models */,
 				E150E67629B39B9400902158 /* Games */,
 				E1B0D67029B393C3002BEBC9 /* Views */,
@@ -107,6 +113,17 @@
 				E1B0D67329B39405002BEBC9 /* CardCarouselView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		E1B6046029B3ED2500E3E3A9 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				E1B6046929B3EF2700E3E3A9 /* Template - LaunchImage - 3840 x 1440 pt@2x.jpg */,
+				E1B6046729B3EDF400E3E3A9 /* Template - App Icon Small - 400 x 240 pt (P3) @2x.jpg */,
+				E1B6046329B3ED5100E3E3A9 /* Template - App Icon - AppStore - 1280 x 768 pt (P3).jpg */,
+				E1B6046229B3ED5000E3E3A9 /* Template - Top Shelf - Wide - 2320 x 720 pt (P3) @2x.jpg */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -168,9 +185,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				E1B0D66829B384E1002BEBC9 /* Preview Assets.xcassets in Resources */,
+				E1B6046529B3ED5100E3E3A9 /* Template - Top Shelf - Wide - 2320 x 720 pt (P3) @2x.jpg in Resources */,
+				E1B6046829B3EDF500E3E3A9 /* Template - App Icon Small - 400 x 240 pt (P3) @2x.jpg in Resources */,
+				E1B6046629B3ED5100E3E3A9 /* Template - App Icon - AppStore - 1280 x 768 pt (P3).jpg in Resources */,
 				E150E68029B3A33E00902158 /* Localizable.strings in Resources */,
 				E1B0D66529B384E1002BEBC9 /* Assets.xcassets in Resources */,
-				E1B6045F29B3C2FC00E3E3A9 /* Template - LaunchImage - 3840 x 2160 pt@2x.png in Resources */,
+				E1B6046A29B3EF2700E3E3A9 /* Template - LaunchImage - 3840 x 1440 pt@2x.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
